@@ -1,0 +1,16 @@
+.itemContainer{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid white;
+    align-items: center;
+    height: 500px;
+    width: 450px;
+    justify-content: space-evenly;
+    color: white;
+    background-color: black;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
